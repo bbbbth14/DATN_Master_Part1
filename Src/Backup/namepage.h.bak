@@ -1,0 +1,3 @@
+
+const char *LCD_PAGE_NAME[] = {"indoor", "outdoor", "wifisetup", "editbox", "allsetting"};
+
